@@ -1,0 +1,22 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~STM32_test_board_pcb_prj.PrjPcb|ReportField=ProjectFullPath~C:\Users\czagaa\Desktop\Tanulas_2\Tanulas\Altium\STM32_test_board\STM32_test_board_pcb_prj\STM32_test_board_pcb_prj.PrjPcb|ReportField=Title~Bill of Materials For Project [STM32_test_board_pcb_prj.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~41|ReportField=ReportTime~11:10:38|ReportField=ReportDate~2023.12.07.|ReportField=ReportDateTime~2023.12.07. 11:10:38|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~2023.12.07.|ReportField=CurrentTime~11:10:09|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\Users\czagaa\Desktop\Tanulas_2\Tanulas\Altium\STM32_test_board\STM32_test_board_pcb_prj\STM32_test_board_schematic.SchDoc|ReportField=DocumentName~STM32_test_board_schematic.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~2023.11.23.|ReportField=Organization~|ReportField=ProjectName~STM32_test_board_pcb_prj.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~STM32_test_board_pcb_prj.PrjPcb|ReportField=DataSourceFullPath~C:\Users\czagaa\Desktop\Tanulas_2\Tanulas\Altium\STM32_test_board\STM32_test_board_pcb_prj\STM32_test_board_pcb_prj.PrjPcb
+1|0.1uF|1.5mm Electrolytic|C1|Electrolytic_Cap_1_5mm|THT_Electrolytic_Cap|1
+2|1uF|2mm Electrolytic|C2|Electrolytic_CAP_2mm|THT_Electrolytic_Cap_2|1
+3|22pF||C3, C4|THT_CEREMIC_CAP_254|THT_Ceramic_Cap|2
+4|100nF||C5, C6, C7, C8, C9, C10|THT_CEREMIC_CAP_254|THT_Ceramic_Cap|6
+5|4.7uF||C11|THT_Tantal_Cap_254|THT_Tantal_Cap|1
+6|1uF||C12|THT_CEREMIC_CAP_254|THT_Ceramic_Cap|1
+7|10nF||C13|THT_CEREMIC_CAP_254|THT_Ceramic_Cap|1
+8|15pF||C14, C15|THT_CEREMIC_CAP_254|THT_Ceramic_Cap|2
+9|1N4002|Diode Standard 100V 1A Through Hole DO-41|D1|DO-35|1N4002|1
+10|LED||D2, D3|LED|LED|2
+11|FerriteBead|Resistor|FB1|AxialMetalFilmResistors|Resistor|1
+12|USB 2.0 Type B|USB 2.0 Type A and Type B|J1|USB2_0_B_DIP|USB2_0-A&B|1
+13|Header 4|Header, 4-Pin|P1, P3, P4, P5, P6|HDR1X4|Header 4|5
+14|Header 8|Header, 8-Pin|P2, P7|HDR1X8|Header 8|2
+15|Header 2X2|Header, 2-Pin, Dual row|P8|HDR2X2|Header 2X2|1
+16|Resistor|Resistor|R1, R2, R3, R4, R6, R7, R8, R9|AxialMetalFilmResistors|Resistor|8
+17|PushButton|PushButton|S1|PushButton|PushButton|1
+18|STM32F103C8T6|STM32 ARM-based 32-bit MCU with 64 Kbytes Flash, 48-pin LQFP, Industrial Temperature|U1|LQFP48_N|STM32F103C8T6|1
+19|LM317|Linear Voltage Regulator IC Variable Output TO-220-3|U2|TO220-3|LM317|1
+20|8MHz||Y1|OSC|OSC|1
+21|32.768kHz||Y2|OSC_Round|OSC_round|1

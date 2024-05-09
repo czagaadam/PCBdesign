@@ -1,0 +1,6 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=STM32_test_board_pcb_prj\STM32_test_board_pcb_prj.PrjPcb
+[Project2]
+ProjectPath=..\Library\AltiumDesignerLibrary-master\AltiumDesignerLibrary-master\AD_Connectors\AD_Connectors.LibPkg

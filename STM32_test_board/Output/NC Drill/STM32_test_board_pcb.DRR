@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: STM32_test_board_pcb.PcbDoc   2023.12.12.  18:09:42
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : STM32_test_board_pcb.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      14mil (0.35mm)                                            Round             2         PTH        0.03inch (0.80mm)
+T2      24mil (0.6mm)                                             Round             2         PTH        0.19inch (4.90mm)
+T3      28mil (0.7mm)                                             Round             34        PTH        6.46inch (164.07mm)
+T4      28mil (0.711mm)                                           Round             14        PTH        3.85inch (97.90mm)
+T5      35mil (0.9mm)                                             Round             60        PTH        16.06inch (407.81mm)
+T6      36mil (0.92mm)                                            Round             4         PTH        0.28inch (7.00mm)
+T7      47mil (1.2mm)                                             Round             7         PTH        4.57inch (116.19mm)
+T8      91mil (2.3mm)                                             Round             2         PTH        0.47inch (12.04mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              125
+
+Total Processing Time (hh:mm:ss) : 00:00:00
