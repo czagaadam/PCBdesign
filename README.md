@@ -14,3 +14,6 @@ https://github.com/czagaadam/PCBdesign/tree/main/STM32_test_board
 
 ![image](https://github.com/czagaadam/PCBdesign/assets/168843740/89a3dc87-76ab-43d2-817e-734c5d42b8dc)
 
+![IMG_0056](https://github.com/czagaadam/PCBdesign/assets/168843740/e12525b3-cd1d-4414-946b-78702bf3e7ae)
+Blinking program
+![IMG_0059](https://github.com/czagaadam/PCBdesign/assets/168843740/80beaa98-3b6f-4769-bdc2-bd708e547ad4)
