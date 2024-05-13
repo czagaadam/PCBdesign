@@ -1,5 +1,5 @@
 # PCBdesign
-Welcome to the PCBdesign wiki!
+Welcome to PCBdesign wiki!
 
 I'm sharing here my PCB design projects.
 The first one is a STM32F103C8T6 Bluepill clone. Everything the same but with THT components.
