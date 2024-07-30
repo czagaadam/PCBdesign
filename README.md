@@ -4,7 +4,7 @@ Welcome to PCBdesign wiki!
 I'm sharing here my PCB design projects.
 The first one is a STM32F103C8T6 Bluepill clone. Everything the same but with THT components.
 More versions are comming soon... My plane is to design a similar board with an additional ESP32 controller.
-After that I will try to design boards with more robust controllers which are cabale to run Linux.
+After that I will try to design boards with more robust controllers with rich I/O sets.
 I would like to use these boards for vision and machine learning projects with wifi and remote programming support.
 Maybe later I'll build up a CI/CD pipeline. 
 
